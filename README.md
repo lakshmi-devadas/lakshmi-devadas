@@ -34,7 +34,7 @@
 
 ### 🆕 Latest repositories
 <!-- REPOS:START -->
-- [lakshmi-devadas.github.io](https://github.com/lakshmi-devadas/lakshmi-devadas.github.io) — No description yet
+- [lakshmi-devadas.github.io](https://github.com/lakshmi-devadas/lakshmi-devadas.github.io) — No description yet · `HTML`
 - [grid-loadflow-lab](https://github.com/lakshmi-devadas/grid-loadflow-lab) — No description yet · `Python`
 <!-- REPOS:END -->
 
