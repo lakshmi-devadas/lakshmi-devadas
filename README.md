@@ -26,9 +26,9 @@
 | Project | What it does | Status |
 |---|---|---|
 | [grid-loadflow-lab](https://github.com/lakshmi-devadas/grid-loadflow-lab) | Load flow + contingency (N-1) studies on IEEE test systems with pandapower | 🟢 Live |
-| [relay-coordination-calc](https://github.com/lakshmi-devadas/relay-coordination-calc) | IEC 60255 IDMT curves, TCC plots, automatic CTI checks | ⚪ Planned |
-| [scl-parser](https://github.com/lakshmi-devadas/scl-parser) | Reads IEC 61850 .scd/.icd files → IED, LN and GOOSE inventory in Excel | ⚪ Planned |
-| [modbus-sim-logger](https://github.com/lakshmi-devadas/modbus-sim-logger) | Simulated energy meter + Python poller that logs to CSV | ⚪ Planned |
+| relay-coordination-calc | IEC 60255 IDMT curves, TCC plots, automatic CTI checks | ⚪ Planned |
+| scl-parser | Reads IEC 61850 .scd/.icd files → IED, LN and GOOSE inventory in Excel | ⚪ Planned |
+| modbus-sim-logger | Simulated energy meter + Python poller that logs to CSV | ⚪ Planned |
 
 ---
 
