@@ -34,8 +34,8 @@
 
 ### 🆕 Latest repositories
 <!-- REPOS:START -->
-- [lakshmi-devadas.github.io](https://github.com/lakshmi-devadas/lakshmi-devadas.github.io) — No description yet · `HTML`
-- [grid-loadflow-lab](https://github.com/lakshmi-devadas/grid-loadflow-lab) — No description yet · `Python`
+- [lakshmi-devadas.github.io](https://github.com/lakshmi-devadas/lakshmi-devadas.github.io) — Portfolio: Python automation for power systems · `HTML`
+- [grid-loadflow-lab](https://github.com/lakshmi-devadas/grid-loadflow-lab) — N-1 contingency screening for IEEE test systems with pandapower: Excel report, loading chart, tests · `Python`
 <!-- REPOS:END -->
 
 ### 📓 Learning log (latest 5)
