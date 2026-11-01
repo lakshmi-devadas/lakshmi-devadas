@@ -34,10 +34,13 @@
 
 ### 🆕 Latest repositories
 <!-- REPOS:START -->
-_Auto-updated daily by GitHub Actions._
+- [lakshmi-devadas.github.io](https://github.com/lakshmi-devadas/lakshmi-devadas.github.io) — No description yet
+- [grid-loadflow-lab](https://github.com/lakshmi-devadas/grid-loadflow-lab) — No description yet · `Python`
 <!-- REPOS:END -->
 
 ### 📓 Learning log (latest 5)
 <!-- LOG:START -->
-_Auto-updated from [LEARNING_LOG.md](LEARNING_LOG.md)._
+- **2026-11-01** — Set up GitHub profile and portfolio
+
+[Full log →](LEARNING_LOG.md)
 <!-- LOG:END -->
