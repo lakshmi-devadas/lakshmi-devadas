@@ -40,6 +40,7 @@
 
 ### 📓 Learning log (latest 5)
 <!-- LOG:START -->
+- **2026-11-03** — Git, GitHub Actions and a broken push
 - **2026-11-01** — Set up GitHub profile and portfolio
 
 [Full log →](LEARNING_LOG.md)
