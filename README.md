@@ -34,6 +34,7 @@
 
 ### 🆕 Latest repositories
 <!-- REPOS:START -->
+- [relay-coordination-calc](https://github.com/lakshmi-devadas/relay-coordination-calc) — Streamlit app for IDMT overcurrent relay coordination: IEC 60255 & IEEE curves, full-range CTI check, one-click TMS grading, Excel export · `Python`
 - [lakshmi-devadas.github.io](https://github.com/lakshmi-devadas/lakshmi-devadas.github.io) — Portfolio: Python automation for power systems · `HTML`
 - [grid-loadflow-lab](https://github.com/lakshmi-devadas/grid-loadflow-lab) — N-1 contingency screening for IEEE test systems with pandapower: Excel report, loading chart, tests · `Python`
 <!-- REPOS:END -->
